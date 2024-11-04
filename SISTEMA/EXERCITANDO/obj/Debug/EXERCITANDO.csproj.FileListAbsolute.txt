@@ -1,0 +1,7 @@
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\obj\Debug\EXERCITANDO.csproj.AssemblyReference.cache
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\obj\Debug\EXERCITANDO.csproj.CoreCompileInputs.cache
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\bin\Debug\EXERCITANDO.exe.config
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\bin\Debug\EXERCITANDO.exe
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\bin\Debug\EXERCITANDO.pdb
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\obj\Debug\EXERCITANDO.exe
+C:\Users\matheus.lismarsi\source\repos\SISTEMA\EXERCITANDO\obj\Debug\EXERCITANDO.pdb
